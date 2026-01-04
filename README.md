@@ -8,7 +8,7 @@ STILL ON WORK!!
 ```markdown
  🔐 File Hash Calculator
 > A powerful command-line tool for calculating and verifying file hashes.
-Essential for cybersecurity professionals, digital forensics, and file integrity verification.
+> Essential for cybersecurity professionals, digital forensics, and file integrity verification.
 
  ✨ Features
 
