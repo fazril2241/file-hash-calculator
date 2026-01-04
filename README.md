@@ -1,12 +1,12 @@
 STILL ON WORK!!
-```markdown
- 🔐 File Hash Calculator
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Tool-red)
 ![CLI](https://img.shields.io/badge/CLI-Tool-brightgreen)
 
+```markdown
+ 🔐 File Hash Calculator
 > A powerful command-line tool for calculating and verifying file hashes. Essential for cybersecurity professionals, digital forensics, and file integrity verification.
 
  ✨ Features
