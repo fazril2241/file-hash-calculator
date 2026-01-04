@@ -20,7 +20,8 @@ STILL ON WORK!!
 - 🔍 Batch Processing: Process multiple files efficiently
 - 📊 Detailed Output: Formatted results with file information
 
- 🚀 Installation
+```
+🚀 Installation
 
  Prerequisites
 - Python 3.7 or higher
